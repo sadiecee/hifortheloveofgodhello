@@ -1,0 +1,38 @@
+<DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no">
+		<title>Wikipedia | Pinto: A Taylor Swift Story</title>
+		<link rel="stylesheet" href="main.css">
+		<link rel="text/javascript" href="main.js">
+	</head>
+
+	<body class="body">
+		<div id="images">
+			<img src="part1.png" alt="Part1">
+			<img src="part2.png" alt="Part2">
+			<img src="part3.png" alt="Part3">
+			<img src="part4.png" alt="Part4">
+			<img src="part5.png" alt="Part5">
+			<img src="part6.png" alt="Part6">
+			<img src="part7.png" alt="Part7">
+			<img src="part8.png" alt="Part8">
+
+		</div>
+
+		<!--Shared header-->
+		<!-- <header class="mainHeader">
+			<img src="img/logo.svg" class="logo">
+			<nav class="mainNav">
+				<ul>
+					<li><a href="index.html">Home</a></li>
+					<li class="active"><a href="about.html">About Us</a></li>
+					<li><a href="resources.html">Resources</a></li>
+				</ul>
+			</nav>
+		</header> -->
+
+        <!--Div contains image and short biography of each member-->
+	</body>
+</html>
